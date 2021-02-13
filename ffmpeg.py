@@ -1,6 +1,6 @@
 import subprocess
 
-file = r"https://public-bucket-mine.s3.ap-south-1.amazonaws.com/Sasha+Belaya+vs+Oleksandra+Korashvili+new.mp4"
+file = r"(URL of choice)"
 
 def get_thumbnail(input):
     output = r"/Users/Shreyas/Desktop/ffmpeg/thumb.png"
